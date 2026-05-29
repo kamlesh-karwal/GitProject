@@ -7,5 +7,6 @@ public class Example {
 		int b=10;
 		int sum = a+b;
 		System.out.println(sum);
+		System.out.println("Ram");
 	}
 }
